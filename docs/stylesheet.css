@@ -1,0 +1,47 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #aafcff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #0f5bff;
+  color: white;
+}
+
+body {
+  background-color: #72b4ce;
+}
+
+.extra {
+  float: left;
+  width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+  .cta {
+      width: 100%;
+      margin: 10%;
+  }
+}

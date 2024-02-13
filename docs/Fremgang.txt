@@ -1,0 +1,13 @@
+Check liste:
+
+Forside, med banner billede - Færdig
+
+“Hvad kan jeg tilbyde” side med tabel og lister - Færdig
+
+Navigationsbar - Færdig
+
+Kontaktside med formular og kontakt info. - Færdig
+
+Styling: Alle 3 CSS selectors (tag, class, id) i alle 3 muligheder: inline (som attribut i elementet), internal (style i head), external (stylesheet) - Færdig
+
+Bonus for responsivitet (kan ses på forskellige skærme i forskellige størrelser i forskellige opløsninger). - Færdig
